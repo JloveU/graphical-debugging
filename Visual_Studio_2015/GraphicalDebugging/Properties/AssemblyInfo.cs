@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("GraphicalDebugging")]
-[assembly: AssemblyDescription("Visual Studio 2015 Graphical Debugging Tools")]
+[assembly: AssemblyDescription("Visual Studio 2017 Graphical Debugging Tools")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("GraphicalDebugging")]
